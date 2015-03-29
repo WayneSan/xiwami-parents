@@ -23,6 +23,7 @@ app.import('bower_components/jquery-ui/themes/smoothness/jquery-ui.css');
 
 app.import('bower_components/moment/moment.js');
 app.import('bower_components/underscore/underscore.js');
+app.import('bower_components/jquery-bar-rating/jquery.barrating.js');
 app.import('bower_components/ic-autocomplete/dist/globals/main.js');
 
 app.import('bower_components/bootstrap/dist/css/bootstrap.css');
@@ -33,6 +34,7 @@ app.import('bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.s
 app.import('bower_components/bootstrap/dist/fonts/glyphicons-halflings-regular.woff', { destDir: 'fonts' });
 app.import('bower_components/bootstrap/dist/js/bootstrap.js');
 
+app.import('vendor/jquery-bar-rating/css/star-rating.css');
 app.import('vendor/bootstrap/css/dashboard.css');
 app.import('vendor/facebook/FB.js');
 app.import('vendor/google/gapi.js');
